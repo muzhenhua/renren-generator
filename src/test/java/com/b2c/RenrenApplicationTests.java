@@ -9,6 +9,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class RenrenApplicationTests {
 
+     //测试
 	@Test
 	public void contextLoads() {
 	}
