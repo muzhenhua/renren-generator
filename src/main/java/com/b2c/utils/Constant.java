@@ -8,6 +8,6 @@ package com.b2c.utils;
  * @date 2016年11月15日 下午1:23:52
  */
 public class Constant {
-
+    //修改变量
 
 }
