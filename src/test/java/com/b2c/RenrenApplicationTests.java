@@ -10,6 +10,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 public class RenrenApplicationTests {
 
      //测试 qq
+	 //小红
 	@Test
 	public void contextLoads() {
 	}
