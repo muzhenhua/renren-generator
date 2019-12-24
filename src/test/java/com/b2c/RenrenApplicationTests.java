@@ -9,10 +9,11 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class RenrenApplicationTests {
 
-     //测试
-	 //测试2
+     //测试8
 	@Test
 	public void contextLoads() {
 	}
+	
+	//AA文件
 
 }
