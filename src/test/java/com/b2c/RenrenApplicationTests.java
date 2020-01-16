@@ -9,8 +9,9 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class RenrenApplicationTests {
 
-     //测试10
-	 //测试8
+
+     //func1
+	 //func2
 	@Test
 	public void contextLoads() {
 	}
